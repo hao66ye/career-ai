@@ -1,12 +1,5 @@
 {
   "name": "career-ai",
   "version": "1.0.0",
-  "description": "CareerAI - AI 求职助手",
-  "main": "server.js",
-  "scripts": {
-    "start": "node server.js"
-  },
-  "engines": {
-    "node": ">=18.0.0"
-  }
+  "description": "CareerAI - AI 求职助手"
 }
