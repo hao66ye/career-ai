@@ -1,9 +1,9 @@
 {
   "version": 2,
+  "framework": null,
   "buildCommand": null,
   "devCommand": null,
   "installCommand": null,
-  "outputDirectory": ".",
   "functions": {
     "api/chat.js": {
       "memory": 256,
