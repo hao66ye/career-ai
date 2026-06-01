@@ -6,7 +6,7 @@ var fs = require('fs');
 var path = require('path');
 
 var PORT = process.env.PORT || 3001;
-var DEEPSEEK_KEY = process.env.DEEPSEEK_KEY || 'sk-e186d1bb59054389ba97addbee684d8d';
+var DEEPSEEK_KEY = process.env.DEEPSEEK_KEY;
 
 // MIME 映射
 var MIME = {
